@@ -1,25 +1,42 @@
 # Pivot Lock CAD Model
 
-This project contains a 3D CAD model of a pivot lock component created in Autodesk Inventor.
-The part demonstrates basic mechanical design features including holes, fillets, slots, and dimensional constraints.
+This project demonstrates the design and documentation of a mechanical pivot lock component created using Autodesk Inventor.
 
-## Model Preview
+The part was modeled parametrically and documented with an engineering drawing including orthographic views, dimensions, and feature annotations.
 
-![Pivot Lock](pivot_lock.png)
+---
 
-## Dimensioned Model
+## 3D Model Preview
 
-![Pivot Lock Dimensions](pivot_lock_dimensions.png)
+![Pivot Lock Model](pivot_lock.png)
+
+---
+
+## Engineering Drawing
+
+![Pivot Lock Drawing](pivot_lock_drawing.png)
+
+---
 
 ## Files Included
 
-* `pivot_lock.ipt` – Autodesk Inventor part file
-* `pivot_lock.png` – Clean rendered view of the model
-* `pivot_lock_dimensions.png` – Dimensioned engineering view
+- **pivot_lock.ipt** – Autodesk Inventor part file  
+- **pivot_lock_drawing.pdf** – Engineering drawing of the part  
+- **pivot_lock.png** – Rendered preview of the 3D model  
+- **pivot_lock_drawing.png** – Preview image of the engineering drawing  
+
+---
 
 ## Skills Demonstrated
 
-* Parametric 3D CAD modeling
-* Mechanical part design
-* Dimensioning and engineering visualization
-* Autodesk Inventor workflow
+- Parametric CAD modeling  
+- Mechanical component design  
+- Engineering drawing creation  
+- Dimensioning and documentation  
+- Autodesk Inventor workflow
+
+---
+
+## Software Used
+
+- Autodesk Inventor Professional 2026
